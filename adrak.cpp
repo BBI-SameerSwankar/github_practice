@@ -1,4 +1,4 @@
 void main()
 {
-    cout "rajat chi gand..";
+    cout "rajat bhau.";
 }
