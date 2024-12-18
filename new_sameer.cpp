@@ -1,4 +1,5 @@
 void main()
 {
-    cout << "Sameer added a cout";
+    cout << "Work Hard Party Hard";
+    cout << "This line is changed to resovle conflict";
 }
