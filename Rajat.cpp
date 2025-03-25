@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"ABHISHEK KA BDAY";
+    cout<<"Rajat ka bday chiken party";
     return 0;
 }
