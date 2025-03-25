@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout<<"jaudya bday ata jhala";
-    cout << "samarth from kuslamb";
+    cout << "harshal from bhusaworld";
 
     return 0;
 }
