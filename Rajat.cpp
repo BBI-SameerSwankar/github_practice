@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     cout<<"jaudya bday ata jhala";
-    cout << "sameer";
+    cout << "rajat";
     return 0;
 }
